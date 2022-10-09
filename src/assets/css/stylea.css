@@ -1,0 +1,78 @@
+/*Location and WORKSTATION */
+
+/* 1 */
+.app_header{ font: normal normal bold 20px/30px Segoe UI; }
+
+/* 2 */
+.app_title{ font:normal normal bold 20px/30px Segoe UI; }
+
+/* 3 */
+.firstHeader{ font:normal normal bold 16px/21px Segoe UI;
+    color: #007bff !important;
+}
+/* 4 */
+.cataloguebutton{ 
+    font: normal normal 600 13px/16px Segoe UI !important;
+    color: #4A4A4A !important;}
+
+/* 5 */
+.cataloguebutton li a { color: #007bff !important;} 
+
+/* 6 Box*/
+.dropbtn{
+    min-height: 20px;
+    min-width: 250px;
+    height: 52px;
+    background: #DBDBDB33;
+    box-shadow: 0px 3px 6px #DBDBDB33;
+    font-weight: bold;
+    padding-right: 160px;
+    border: 1px solid #f8f6f6;
+    cursor: pointer;
+    border: bold;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 5px 8px 5px;
+    opacity: 1;
+    color: #096BCC;
+    font: normal normal bold 16px/21px Segoe UI;
+    text-align: left
+}
+
+/* 7 */
+
+/* 8 */
+input[type="radio"], input[type="checkbox"] {
+    box-sizing: border-box;
+}
+
+/* 9 */
+.button1 {
+    font: normal normal 600 16px/21px Segoe UI;
+}
+ 
+/* 10 */
+.button2{
+    border: none;
+    height: 44px;
+    width: 224px;
+    font: #676767;
+    border: none;
+    background: #096BCC;
+    border: 1px solid #D4D4D4;
+    border-radius: 4px;
+    opacity: 1;
+    font: normal normal 600 16px/21px Segoe UI;
+}
+
+/* Condition Of Use */
+/* 1 */
+.titlediv h1 {
+    font-size: 20px;
+}
+
+/* 2 */
+.titlediv p {
+    font-size: 18px;
+}
